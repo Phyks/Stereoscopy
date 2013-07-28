@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname fonteauteurs\endcsname\relax
+\def\fonteauteurs{\scshape}\fi
+
+\bibitem{templateMatching}
+Opencv wiki page about template matching.
+\newblock
+  \url{http://docs.opencv.org/doc/tutorials/imgproc/histograms/template_matching/template_matching.html},
+  dernière consultation en janvier 2013.
+
+\bibitem{phaseCorrelation}
+Wikipedia page about phase correlation.
+\newblock \url{http://en.wikipedia.org/wiki/Phase_correlation}, dernière
+  consultation en janvier 2013.
+
+\bibitem{article2}
+Jernej \bgroup\fonteauteurs\bgroup Mrovlje1\egroup\egroup{} et Damir
+  \bgroup\fonteauteurs\bgroup Vranči\egroup\egroup{} :
+\newblock Distance measuring based on stereoscopic pictures.
+\newblock
+  \url{http://photon07.pd.infn.it:5210/users/dazzi/Thesis_doctorate/Info/Chapter_6/Stereoscopy_(Mrovlje).pdf},
+  article daté de 2008, dernière consultation en décembre 2012.
+
+\bibitem{article}
+Edwin \bgroup\fonteauteurs\bgroup TjandranegaraB\egroup\egroup{} :
+\newblock Distance estimation algorithm for stereo pair images.
+\newblock \url{http://docs.lib.purdue.edu/ecetr/64/}, article daté de 2005,
+  dernière consultation en décembre 2012.
+
+\end{thebibliography}
