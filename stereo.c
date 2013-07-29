@@ -2,12 +2,20 @@
 --------------------------------------------------------------------------------------------------------------------
 ------- STEREOSCOPY DISTANCE MEASUREMENT ---------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
-This program has been written by Phyks (http://phyks.me - webmaster@phyks.me). It is licensed under the 
-zlib/libpng OSI licence.
 
 Please, send me an email if you use or modify this program, just to let me know if this program is useful to anybody or how did you improve it :) You can also send me an email to tell me how lame it is ! :)
 
-Licence : http://www.opensource.org/licenses/zlib-license.php
+TLDR; I don't give a damn to anything you can do using this code. It would just be nice to quote where the original code comes from.
+
+--------------------------------------------------------------------------------
+"THE NO-ALCOHOL BEER-WARE LICENSE" (Revision 42):
+Phyks (webmaster@phyks.me) wrote this file. As long as you retain this notice you
+can do whatever you want with this stuff (and you can also do whatever you want
+with this stuff without retaining it, but that's not cool...). If we meet some
+day, and you think this stuff is worth it, you can buy me a beer soda
+in return.
+Phyks
+---------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------
 
