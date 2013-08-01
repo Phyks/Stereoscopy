@@ -68,3 +68,16 @@ quote where the original code comes from.
     in return.
                                                                      Phyks
 ---------------------------------------------------------------------------------
+
+## Note about the content of this repository
+
+This repository contains :
+
+* An _Articles_ folder containing the PDF of the articles I found on the Internet about this subject and that I intensively use to code.
+* A _bmp.c_ code to load a bmp image (personnal implementation, not used in the definitive version - I used OpenCV to handle all formats instead).
+* A _Rapport_ folder containing a report on the code in French. Not very useful I think...
+* A _RGB2Grey.c_ code to converts RGB images to Grey levels images (_idem_ it's a personnal implementation of the OpenCV equivalent. I used OpenCV in the definitive code).
+* A _sobel.c_ code to apply a Sobel on an image (_idem_, personnal version, used the OpenCV equivalent in the definitive code)
+* A _stereo.c_ code that is **THE MAIN AND DEFINITIVE CODE** that handle the stereoscopic measurement.
+* A _Test images_ folder containing some images I used to test the algorithm. They have been taken by myself and you can do whatever you want with them (except those showing a table with a bottle of wine which has been taken by somebody else and for which all rights are reserved).
+* A _Values used for camera specs_ file containing the params I used for my camera. These should be relatively standard and give a good approximation for standard cameras.
