@@ -22,7 +22,7 @@ This software was tested successfully (_ie_ giving a result correct according to
 Pixels are numeroted this way :
 <pre>
 (0,0)		(1,0)		(2,0)		...		(Width,0)
-(1,0)		(1,1)		(2,1)		...		(Width,1)
+(0,1)		(1,1)		(2,1)		...		(Width,1)
  ...    	  ...		  ...		 ...		   ...
 (0,Height)    ...		  ...		 ... 	 (Width, Height)
 </pre>
